@@ -4,7 +4,7 @@ uvicorn==0.25.0
 sse-starlette==1.8.2
 pydantic==2.6.3
 pydantic-settings==2.1.0
-email-validator==2.1.0.post1
+email-validator==2.2.0
 python-multipart==0.0.7
 async-timeout==4.0.3
 tenacity==8.2.3
