@@ -27,4 +27,4 @@ SQLAlchemy==2.0.28
 
 # Cache
 redis[hiredis]==5.0.1
-rq==1.15.1
+rq==1.16.2
